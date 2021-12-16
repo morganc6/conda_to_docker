@@ -1,5 +1,5 @@
-# conda_to_docker
-how to convert conda environment into docker
+# how to convert conda environment into docker
+
 
 The following example details how to convert a conda environment that is set up to run gatk4 with all dependecies into a docker image.
 
