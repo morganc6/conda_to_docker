@@ -3,8 +3,7 @@ how to convert conda environment into docker
 
 The following example details how to convert a conda environment that is set up to run gatk4 with all dependecies into a docker image.
 
-The basis of this follows the instructions provided in the "Using Coiled as a Docker Image pipeline"
-https://towardsdatascience.com/converting-conda-pip-environments-into-docker-images-d02aa22e872c
+The basis of this follows the instructions provided in the [Using Coiled as a Docker Image pipeline](https://towardsdatascience.com/converting-conda-pip-environments-into-docker-images-d02aa22e872c)
 
 
 1. activate gatk4 conda environment
